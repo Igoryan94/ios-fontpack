@@ -1,0 +1,6 @@
+# Normal
+*.zip
+module.prop
+
+# Others
+*.swp
